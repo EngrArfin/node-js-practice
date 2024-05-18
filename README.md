@@ -1,6 +1,13 @@
 # node-js-practice
 
-Going this website: 
+Going this website:
+Lorem Ipsum
+
+https://www.lipsum.com/
+
+NOde JS Document 
+
+https://nodejs.org/docs/latest/api/
 
 This is a Next.js project bootstrapped with create-next-app.
 
