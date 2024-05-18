@@ -1,11 +1,12 @@
 # node-js-practice
 
 Going this website:
-Lorem Ipsum
+
+# Lorem Ipsum
 
 https://www.lipsum.com/
 
-NOde JS Document 
+#Node JS Document 
 
 https://nodejs.org/docs/latest/api/
 

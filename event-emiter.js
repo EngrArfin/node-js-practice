@@ -1,4 +1,3 @@
-
 const EventEmiter = require("events")
 const myEmitter = new EventEmiter()
 
