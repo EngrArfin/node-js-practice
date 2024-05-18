@@ -1,4 +1,3 @@
-/* https://nodejs.org/docs/latest/api/events.html#emitteremiteventname-args */
 
 const EventEmiter = require("events")
 const myEmitter = new EventEmiter()
